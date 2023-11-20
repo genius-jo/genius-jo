@@ -1,5 +1,5 @@
 ### I'm 조광식 👋
-- SW마에스트로 13기 (2022.04 ~ 2022.12)
+- SW마에스트로 13기 (2022.06 ~ 2022.11)
 
 ### :computer: Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
